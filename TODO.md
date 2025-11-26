@@ -12,3 +12,5 @@
 
 - https://docs.rs/numpy/latest/numpy/
 - https://crates.io/crates/linfa
+
+https://arewegameyet.rs/ecosystem/ai/
